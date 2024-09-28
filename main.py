@@ -15,3 +15,5 @@ elif (number3 != minval and number3 != maxval):
     median = number3
     
 print(minval, median, maxval)
+
+#
